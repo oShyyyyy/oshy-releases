@@ -1,3 +1,9 @@
+-- CATWARE
+-- JOIN CATWARE !!1
+
+-- https://discord.gg/5Xh6XC3fqk
+
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
